@@ -1,3 +1,3 @@
-# Hello there..
+# Contact
 
 📫 jaej.dev@gmail.com
